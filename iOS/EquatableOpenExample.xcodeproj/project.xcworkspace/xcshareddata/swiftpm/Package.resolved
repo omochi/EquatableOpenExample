@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EquatableOpen",
+        "repositoryURL": "https://github.com/omochi/EquatableOpen",
+        "state": {
+          "branch": "master",
+          "revision": "e47e344e07eabd256211894db798962a70a288b2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
